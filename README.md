@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Isaiahshap
+- 👀 I’m interested in Front-end Development 
+- 🌱 I’m currently learning React typecript, three.js and overall how to make cool interactive websites.
+- 💞️ I’m looking to collaborate on anything and everything. 
+- 📫 How to reach me: @yeshaya_ on Instagram or andyshapiro613@gmail.com
+- 😄 Pronouns: Him/ he
+- ⚡ Fun fact: I'm working on a Hotdog component Library... Go check it out!
