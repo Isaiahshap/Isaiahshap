@@ -18,3 +18,5 @@ Interested in fun projects. Let's build something cool!
 - Instagram: [@yeshaya_](https://www.instagram.com/yeshaya_)
 
 ### 👨‍💻 Skills: React, TypeScript, Three.js, HTML, CSS, JavaScript, Apex
+
+Also, I really like glassmorphism
