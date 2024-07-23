@@ -12,7 +12,7 @@
 
 ### 🛠️ Current Projects
 - **3D Hotdog Component Library** for React
-  - Developing interactive 3D components using Three.js.
+  - Developing interactive 3D hotdog components using Three.js.
 - **90's Component Library** for React
   - Building a nostalgic UI library inspired by 90's web design.
 - **Wisdom Chat App**
