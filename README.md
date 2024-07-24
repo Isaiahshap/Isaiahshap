@@ -1,4 +1,4 @@
-### Isaiah Shapiro
+#### Isaiah Shapiro
 ### Front-End Developer specializing in React 
 
 ---
