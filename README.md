@@ -11,16 +11,13 @@
 ---
 
 ### 🛠️ Current Projects
-- **3D Hotdog Component Library** for React
   - Developing interactive 3D hotdog components using Three.js.
-- **90's Component Library** for React
-  - Building a nostalgic UI library inspired by 90's web design.
-- **Wisdom Chat App**
+  - Building a 90's styled component library for React.
   - Creating a chat-roulette style app aimed at bridging generational gaps.
 
 ---
 
-### 💼 Open for Collaboration
+### 💼 Open for Collaboration 
 Interested in fun and innovative projects. Let's build something cool together! If you have an idea or a project, feel free to reach out.
 
 ---
