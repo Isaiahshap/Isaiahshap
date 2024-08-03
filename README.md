@@ -1,5 +1,5 @@
 ### Isaiah Shapiro
-### Front-End Developer specializing in React 
+### Front-End Developer specializing in React and interactive Three.js web designs
 
 ---
 
