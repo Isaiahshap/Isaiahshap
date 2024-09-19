@@ -1,5 +1,5 @@
 # Isaiah Shapiro
-## Fullstack Developer | Interactive Web Specialist
+## Fullstack Developer | Marketing Operations Architect
 
 ---
 
@@ -37,7 +37,7 @@ Passionate about creating innovative and impactful web applications. If you have
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 
 ### Backend
@@ -57,26 +57,4 @@ Passionate about creating innovative and impactful web applications. If you have
 ### 📈 GitHub Stats
 ![Isaiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaiahShapDev&show_icons=true&theme=radical)
 
----
 
-### 🌟 Featured Projects
-
-1. **3D Product Showcase**
-   - Interactive 3D product viewer built with Three.js and React
-   - Custom shader for realistic material rendering
-   - [View Demo](https://3d-product-showcase.isaiahshap.dev)
-
-2. **Real-time Collaborative Whiteboard**
-   - Web-based drawing app with real-time collaboration features
-   - Built with React, Socket.io, and Node.js
-   - [Try It Out](https://collab-whiteboard.isaiahshap.dev)
-
-3. **Community Event Organizer**
-   - Cross-platform mobile app built with React Native
-   - Features event creation, RSVP system, and in-app messaging
-   - [App Store](https://apps.apple.com/us/app/community-event-organizer/id1234567890)
-   - [Google Play](https://play.google.com/store/apps/details?id=com.isaiahshap.communityeventorganizer)
-
----
-
-Let's create something extraordinary together! 🚀
