@@ -55,6 +55,6 @@ Passionate about creating innovative and impactful web applications. If you have
 ---
 
 ### 📈 GitHub Stats
-![Isaiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaiahShapDev&show_icons=true&theme=radical)
+![Isaiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaiahshap&show_icons=true&theme=radical)
 
 
