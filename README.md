@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 Expertise
-- **Full-stack development catered to specific marketing/branding needs
+- **Full-stack development catered to specific marketing/branding needs**
 - **Interactive 3D web experiences using Three.js and React Three Fiber**
 - **RESTful API design and implementation**
 - **Responsive and accessible UI/UX design**
@@ -24,9 +24,9 @@ Passionate about creating innovative and impactful web applications. If you have
 ---
 
 ### 📫 Contact
-- **Email**: [isaiah.shapiro@devpro.com](mailto:isaiah.shapiro@devpro.com)
-- **LinkedIn**: [isaiah-shapiro](https://www.linkedin.com/in/isaiah-shapiro)
-- **GitHub**: [@IsaiahShapDev](https://github.com/IsaiahShapDev)
+- **Email**: [yeshayashapiro@gmail.com](mailto:yeshayashapiro@gmail.com)
+- **LinkedIn**: [isaiahshapiro](https://www.linkedin.com/in/isaiahshapiro)
+- **GitHub**: [@IsaiahShap](https://github.com/IsaiahShap)
 
 ---
 
