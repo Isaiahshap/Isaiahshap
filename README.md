@@ -1,5 +1,5 @@
-# Isaiah Shapiro
-## Fullstack Developer | Marketing Operations Architect
+# Yeshaya Shapiro
+## Fullstack Developer | Marketing Operations Architect | CRM specialist
 
 ---
 
