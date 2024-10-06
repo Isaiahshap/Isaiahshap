@@ -1,6 +1,6 @@
 # Yeshaya Shapiro
 
-## Marketing Operations Architect | Full-Stack Developer
+## Marketing Operations Architect | Full-Stack Developer | CRM Specialist
 
 ---
 
