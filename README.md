@@ -1,23 +1,35 @@
 # Yeshaya Shapiro
 
-## Marketing Operations Architect | Full-Stack Developer | CRM Specialist
+**Marketing Operations Architect | Full-Stack Developer | CRM Specialist**
+
+---
+
+Welcome to my GitHub profile! I’m Yeshaya Shapiro, a Marketing Operations Architect and Full-Stack Developer passionate about building data-driven solutions that optimize workflows, enhance productivity, and create real impact. My blend of technical and operational expertise allows me to bring a unique perspective to every project, ensuring that strategy aligns seamlessly with execution.
 
 ---
 
 ### 🚀 Expertise
 
-- **Operations Management with a focus on Process Mapping & Optimization**
-- **Cross-functional Team Leadership and Interdepartmental Collaboration**
-- **Workflow Automation using Salesforce and Monday.com**
-- **CRM Customization & Development**
-- **Full-stack Development with JavaScript, React, Python, and SQL**
-- **Data Analysis & Reporting for Strategic Decision-Making**
+- **Operations Management** – Specialized in process mapping, optimization, and driving cross-functional team collaboration.
+- **Technical Development** – Skilled in full-stack development, with expertise in React, TypeScript, Python, SQL, and Three.js.
+- **CRM & Automation** – Proficient in CRM customization, workflow automation, and data analysis, focusing on tools like Salesforce and Monday.com.
+- **Strategic Reporting** – Analytical approach to reporting and data visualization, enabling strategic decision-making.
+
+---
+
+### 🌟 Featured Projects
+
+- **[Verseart](https://www.yeshaya.dev/verseart)**: Create beautiful images from Old Testament scriptures.
+- **[Weatheryakk](https://www.yeshaya.dev/weatheryakk)**: Real-time weather forecasting site.
+- **[Pink Pitmaster](https://www.yeshaya.dev/pinkpit)**: Sample restaurant page featuring a fun BBQ theme.
+
+Visit [my portfolio](https://www.yeshaya.dev/) to see more of my work!
 
 ---
 
 ### 💼 Open for Collaboration
 
-Passionate about driving operational excellence and creating innovative solutions. If you're looking for someone with a blend of operations management and technical expertise to join your team or collaborate on a project, let's connect and make an impact together!
+I'm always eager to connect with professionals who share a passion for innovative, impactful projects. If you’re looking for a unique combination of technical prowess and strategic insight, let’s work together to create something exceptional.
 
 ---
 
@@ -31,16 +43,11 @@ Passionate about driving operational excellence and creating innovative solution
 
 ## 👨‍💻 Skills
 
-### Operational Expertise
+### Operations & Management
 
-- **Process Mapping & Optimization**
-- **Cross-functional Team Leadership**
-- **Change Management**
-- **Strategic Planning & Execution**
-- **Workflow Automation**
-- **Risk Assessment & Mitigation**
+- Process Mapping & Optimization | Cross-functional Collaboration | Change Management | Strategic Planning | Risk Assessment | Data-Driven Decision Making
 
-### Technical Proficiencies
+### Technical Skills
 
 #### Frontend
 
@@ -72,4 +79,6 @@ Passionate about driving operational excellence and creating innovative solution
 
 ![Isaiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaiahShap&show_icons=true&theme=radical)
 
+---
 
+Thanks for visiting my profile! Let’s create something amazing together!
