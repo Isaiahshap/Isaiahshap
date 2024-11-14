@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I’m Yeshaya Shapiro, a Marketing Operations Arch
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Featured Projects 🫢
 
 - **[Verseart](https://www.yeshaya.dev/verseart)**: Create beautiful images from Old Testament scriptures.
 - **[Weatheryakk](https://www.yeshaya.dev/weatheryakk)**: Real-time weather forecasting site.
