@@ -57,10 +57,4 @@ See more at **[YESHAYA.DEV](https://yeshaya.dev/)**.
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)  
 
----
-
-## 🏆 3D CONTRIBUTION SNAKE
-<p align="center">
-  <img src="https://github.com/IsaiahShap/IsaiahShap/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
