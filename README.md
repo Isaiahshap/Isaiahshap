@@ -59,15 +59,8 @@ See more at **[YESHAYA.DEV](https://yeshaya.dev/)**.
 
 ---
 
-## 🖥️ Interactive CLI  
+## 🏆 3D CONTRIBUTION SNAKE
+<p align="center">
+  <img src="https://github.com/IsaiahShap/IsaiahShap/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
-```bash
-> whoami  
-I'm Yeshaya, a high-performance web developer.
-
-> projects  
-- [YESHAYA.DEV](https://yeshaya.dev)
-- [ELUX.DEV](https://elux.dev)
-
-> tech-stack  
-React | TypeScript | Next.js | TailwindCSS | GSAP | Framer Motion  
