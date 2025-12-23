@@ -1,61 +1,92 @@
-# YESHAYA SHAPIRO  
+# YESHAYA SHAPIRO
 
-**WEB DEVELOPER & CEO | [YESHAYA.DEV](https://yeshaya.dev/) | [ELUX.DEV](https://elux.dev/)**  
-
----
-
-## 🚀 I BUILD WEBSITES THAT *ACTUALLY LOOK GOOD*.  
-
-At **YESHAYA.DEV**, I craft **bold, high-performance, responsive websites** with a sharp, modern edge.  
-**No bloated templates. No uninspired designs. Just sleek, effective, custom-built digital experiences.**  
-
-At **ELUX.DEV** *(launching soon)*, I take things further—**high-end, luxury websites** designed for brands that refuse to blend in.  
-
-I use **![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)**.  
-No gimmicks. No **smooth scroll nonsense**. Just clean, cutting-edge development.  
+**Founder & Developer — [yeshaya.dev](https://yeshaya.dev)**
 
 ---
 
-## 🏆 GitHub Performance  
+## I BUILD WEBSITES FOR ORGANIZATIONS THAT ACTUALLY CARE
 
-**📊 Live GitHub Stats:**  
-![Yeshaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaiahShap&show_icons=true&theme=radical)  
+I run **YESHAYA.DEV**, a marketing and web development agency focused exclusively on  
+**nonprofits, advocacy groups, and mission-driven organizations**.
 
-**🔥 Commit Streak:**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IsaiahShap&theme=radical)  
+The goal is simple:  
+**clear messaging, strong trust, and sites that convert support into real action.**
 
-**📈 Top Languages:**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiahShap&layout=compact&theme=radical)  
-
-**⚡ Live Contribution Graph:**  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IsaiahShap&theme=react-dark)  
+No bloated templates.  
+No VC-bro SaaS nonsense.  
+Just fast, accessible, well-designed websites that help people do good work better.
 
 ---
 
-## 🎬 Featured Projects  
+## WHAT I DO
 
-- **[Taylor Ross](https://taylor-ross.vercel.app/)** – High-end law firm website.  
-- **[Reachr](https://reachr.vercel.app/)** – Sleek SaaS platform with seamless UI.  
-- **[Sarah Chen](https://sarahchen.vercel.app/)** – Refined art portfolio.  
-- **[Pulse Ten](https://pulse-ten-tau.vercel.app/)** – High-energy fitness brand website.  
-
-See more at **[YESHAYA.DEV](https://yeshaya.dev/)**.  
+- Custom websites for nonprofits & mission-driven orgs  
+- Clear information architecture and storytelling  
+- High-converting donation, signup, and campaign flows  
+- SEO that helps people actually find your cause  
+- Clean, maintainable code (no black-box page builders)
 
 ---
 
-## 💻 My Stack  
+## TECH I USE
 
-### **Frontend**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black) ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)  
+**Frontend**
+- TypeScript
+- React
+- Next.js
+- Tailwind CSS
 
-### **Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)  
+**Backend / Logic**
+- Python
+- Node.js
 
-### **Deployment & Ops**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)  
+**Everything else**
+- HTML & CSS (properly)
+- Git
+- Vercel
 
+I prioritize **clarity, performance, accessibility, and long-term maintainability** over trends.
 
+---
 
+## GITHUB STATS
+
+**Overview**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaiahShap&show_icons=true&theme=transparent)
+
+**Languages**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiahShap&layout=compact&theme=transparent)
+
+**Streak**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IsaiahShap&theme=transparent)
+
+**Activity**
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IsaiahShap&theme=github-compact)
+
+---
+
+## SELECTED WORK
+
+Recent projects include work for:
+- Nonprofits
+- Community organizations
+- Advocacy groups
+- Artists and educators
+
+More at **[yeshaya.dev](https://yeshaya.dev)**
+
+---
+
+## PHILOSOPHY
+
+I don’t believe software is neutral.  
+I choose who I build for.
+
+If a project helps people, strengthens communities, or makes the world more livable,
+I’m interested.
+
+If it’s just about squeezing more profit out of people, I’m not.
+
+---
+
+**Based in NYC • Working globally**
