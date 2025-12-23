@@ -51,12 +51,6 @@ I prioritize **clarity, performance, accessibility, and long-term maintainabilit
 
 ## GITHUB STATS
 
-**Overview**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaiahShap&show_icons=true&theme=transparent)
-
-**Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiahShap&layout=compact&theme=transparent)
-
 **Streak**
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IsaiahShap&theme=transparent)
 
