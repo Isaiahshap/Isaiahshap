@@ -85,24 +85,5 @@ If it’s just about squeezing more profit out of people, I’m not.
 
 **Based in NYC • Working globally**
 
-## WHAT I OPTIMIZE FOR
 
-<svg width="100%" viewBox="0 0 900 70" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .t { font: 600 14px system-ui; fill: #111 }
-    .b { fill: #e5e7eb; rx: 10 }
-  </style>
-
-  <rect x="0"   y="10" width="180" height="40" class="b"/>
-  <text x="90"  y="36" text-anchor="middle" class="t">Accessibility</text>
-
-  <rect x="190" y="10" width="180" height="40" class="b"/>
-  <text x="280" y="36" text-anchor="middle" class="t">Clarity</text>
-
-  <rect x="380" y="10" width="180" height="40" class="b"/>
-  <text x="470" y="36" text-anchor="middle" class="t">Performance</text>
-
-  <rect x="570" y="10" width="180" height="40" class="b"/>
-  <text x="660" y="36" text-anchor="middle" class="t">Maintainability</text>
-</svg>
 
